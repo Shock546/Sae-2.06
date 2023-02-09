@@ -22,7 +22,7 @@
   display:flex;
   align-items: center;
   justify-content: center;
-  width: 250vw;
+  width: 150%;
 }
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
