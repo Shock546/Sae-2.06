@@ -1,0 +1,100 @@
+ .u-section-1 {
+  background-image: url("https://assets.nicepagecdn.com/16185549/4017891/images/9b06052ca11a485b00626255dcef7dd74eccf75975fe58bf03a99397960b3cd0f04c1aca801a81fb4e9062cecc5788ceac9e6467faeb7c051938a0_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 539px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 26px 226px 0 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 230px;
+  min-height: 16px;
+  width: 230px;
+  min-width: 16px;
+  margin: 65px auto 60px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 444px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 26px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 255px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 161px;
+  }
+} .u-section-2 {
+  background-image: url("https://assets.nicepagecdn.com/16185549/4017891/images/9b06052ca11a485b00626255dcef7dd74eccf75975fe58bf03a99397960b3cd0f04c1aca801a81fb4e9062cecc5788ceac9e6467faeb7c051938a0_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-2 .u-social-icons-1 {
+  height: 256px;
+  min-height: 16px;
+  width: 256px;
+  min-width: 16px;
+  margin: 90px auto 60px;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 396px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 303px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 227px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 143px;
+  }
+}
